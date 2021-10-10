@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/games-list/static/css/main.ff25ff57.chunk.css",
+    "main.js": "/games-list/static/js/main.19a8492c.chunk.js",
+    "main.js.map": "/games-list/static/js/main.19a8492c.chunk.js.map",
+    "runtime-main.js": "/games-list/static/js/runtime-main.54cfa2ff.js",
+    "runtime-main.js.map": "/games-list/static/js/runtime-main.54cfa2ff.js.map",
+    "static/js/2.88b1df30.chunk.js": "/games-list/static/js/2.88b1df30.chunk.js",
+    "static/js/2.88b1df30.chunk.js.map": "/games-list/static/js/2.88b1df30.chunk.js.map",
+    "static/js/3.18cee908.chunk.js": "/games-list/static/js/3.18cee908.chunk.js",
+    "static/js/3.18cee908.chunk.js.map": "/games-list/static/js/3.18cee908.chunk.js.map",
+    "index.html": "/games-list/index.html",
+    "static/css/main.ff25ff57.chunk.css.map": "/games-list/static/css/main.ff25ff57.chunk.css.map",
+    "static/js/2.88b1df30.chunk.js.LICENSE.txt": "/games-list/static/js/2.88b1df30.chunk.js.LICENSE.txt",
+    "static/media/dota2.2ab1ec0a.png": "/games-list/static/media/dota2.2ab1ec0a.png",
+    "static/media/no-man-sky.6c293657.jpg": "/games-list/static/media/no-man-sky.6c293657.jpg",
+    "static/media/pink-space.e44e6164.jpg": "/games-list/static/media/pink-space.e44e6164.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54cfa2ff.js",
+    "static/js/2.88b1df30.chunk.js",
+    "static/css/main.ff25ff57.chunk.css",
+    "static/js/main.19a8492c.chunk.js"
+  ]
+}
